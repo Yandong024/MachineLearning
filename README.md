@@ -32,3 +32,24 @@ learning, including **data reading and writing**, **simple classification** and 
 
 
 ## LAB Day 02. Data and Clustering with solution
+
+### Introduction
+
+The aim of this session is to understand both data manipulation techniques and clustering methods. This includes populating, normalizing, pre-processing, visualizing, and sampling data, along with learning about K-Means, Agglomerative Clustering, and DBSCAN. The session consists of **10 tutorial examples and 6 tasks**, allowing you to apply these techniques and methods through practical examples and exercises.
+
+- Tutorial 01. Filling of missing data
+- Task 01. Exercises to fill in missing data
+- Tutorial 02. Data pre-processing
+- Tutorial 03. Distance metrics
+- Task 02. Distances and standardization
+- Tutorial 04. Matplotlib Basics 
+- Tutorial 05. Visualisation examples
+- Task 03. parallel_coordinates Visualisation
+- Tutorial 06. Cross-validation: evaluating estimator performance
+- Task 04. K-Folds cross experiment
+- Tutorial 07. Clustering model evaluation (optional)
+- Tutorial 08. k-means clustering algorithm.
+- Task 05. k-means clustering
+- Tutorial 09. Agglomerative Clustering
+- Task 06. Agglomerative Clustering 01
+- Tutorial 10. DBSCAN
