@@ -16,7 +16,18 @@
 - MachineLearning and optimization
 - Evaluation
 
- 
+
+
+
+
+# Applied ML 03
+
+- KNN
+  - distance
+  - majority vote
+  - 
+- SVM
+- Probability-based methods
 
 
 

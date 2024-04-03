@@ -53,3 +53,20 @@ The aim of this session is to understand both data manipulation techniques and c
 - Tutorial 09. Agglomerative Clustering
 - Task 06. Agglomerative Clustering 01
 - Tutorial 10. DBSCAN
+
+
+
+
+
+
+
+## LAB Day 03. Classification
+
+- Task 01. Decision tree on Wine dataset
+- Task 02. Decision tree on breast cancer dataset
+- Task 03. Naive Bayes Classifiers Test
+- Task 04. SVM experiment of wine dataset
+- Task 05. kNN experiment of wine dataset
+
+- Tutorial 01. Gaussian Naive Bayes Classifier
+- Tutorial 02. Use of the SVM and kNN functions
