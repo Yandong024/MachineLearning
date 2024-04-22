@@ -28,6 +28,8 @@
   - 
 - SVM
 - Probability-based methods
+  - Entropy: uncertainty & compress
+  - Decision tree
 
 
 

@@ -67,6 +67,9 @@ The aim of this session is to understand both data manipulation techniques and c
 - Task 03. Naive Bayes Classifiers Test
 - Task 04. SVM experiment of wine dataset
 - Task 05. kNN experiment of wine dataset
-
 - Tutorial 01. Gaussian Naive Bayes Classifier
 - Tutorial 02. Use of the SVM and kNN functions
+
+
+
+## LAB Day 04. DNN step by step
